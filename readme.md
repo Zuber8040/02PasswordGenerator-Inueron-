@@ -10,19 +10,18 @@ Using the power of DOM or Document Object Model have created a web app using htm
 
 ## 🚩 Demo In Laptop Screen
 
-![Untitled design](https://user-images.githubusercontent.com/72431298/218531672-c8163792-bde8-4fee-948f-7bbad13c6b49.gif)
+![Password Generator - Brave 2023-02-14 10-48-19](https://user-images.githubusercontent.com/72431298/218647123-1fb75049-af9f-4138-9388-151da7c91d1a.gif)
+
 
 
 
 ## Depolyed Link 
-https://nameconverntioner.netlify.app/
+https://passwordgenerator8282.netlify.app/
 
-
-## ✍️ Author and 📞 Contact
 
 ## 📝 Features
 
-- Can convert text into multiple cases
+- Can Generate random passoword 
 - Hosted on Netlify and set up in production
 - Clean Code
 
