@@ -10,7 +10,8 @@ Using the power of DOM or Document Object Model have created a web app using htm
 
 ## 🚩 Demo In Laptop Screen
 
-![Password Generator - Brave 2023-02-14 10-48-19](https://user-images.githubusercontent.com/72431298/218647123-1fb75049-af9f-4138-9388-151da7c91d1a.gif)
+![Untitled design (2)](https://user-images.githubusercontent.com/72431298/218649853-857eaf0f-785d-4131-b8f2-fd94f5c4d807.gif)
+
 
 
 
