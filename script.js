@@ -20,6 +20,7 @@ clipboard.addEventListener('click', () => {
 	
 	if(!password) { return; }
     navigator.clipboard.writeText(password)
+    alert('Password copied to clipboard');
 });
 
 generate.addEventListener('click', () => {
